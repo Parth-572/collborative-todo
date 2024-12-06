@@ -26,7 +26,7 @@ git clone https://github.com/Parth-572/collborative-todo.git
 ```bash
 cd collborative-todolist-backend
 ```
-##Install dependencies:
+## Install dependencies:
 ```bash
 npm install
 ```
@@ -37,7 +37,7 @@ MONGO_URI=mongodb+srv://your-mongo-db-uri
 PORT=8000
 ```
 ## Replace your-mongo-db-uri with your MongoDB connection string. If you're using MongoDB Atlas, you can get this string from your Atlas dashboard.
-##Start the backend server:
+## Start the backend server:
 ```bash
 npm start
 ```
@@ -48,7 +48,7 @@ Navigate to the frontend folder:
 ```bash
 cd ../collaborative-todo-list
 ```
-##Install dependencies:
+## Install dependencies:
 ```bash
 npm install
 ```
